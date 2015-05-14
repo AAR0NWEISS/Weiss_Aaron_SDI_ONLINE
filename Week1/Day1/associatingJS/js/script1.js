@@ -2,4 +2,4 @@
 sec 02
  */
 
-alert()
+alert("hello world")
