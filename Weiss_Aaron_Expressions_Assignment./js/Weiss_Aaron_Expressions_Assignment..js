@@ -33,5 +33,5 @@ var total = violence*(stress*report)-(stress*relax);
 Console.log(textString[0]+stress);
 console.log(outPutString[1]+relax);
 console.log(outPutString[2]+report);
-console.log(outPutString[3)+violence;
+console.log(outPutString[3]+violence;
 console.log(outPutString[4]+total);
