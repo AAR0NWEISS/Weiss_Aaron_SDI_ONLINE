@@ -7,7 +7,7 @@
  14MAY
  */
 
-//alert("hello world... This is in the JS file")
+alert("hello world... This is in the JS file")
 //great for checking values and debugging
 //also shows all errors
 //console.log("this is the console.1")
