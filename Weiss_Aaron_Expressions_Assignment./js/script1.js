@@ -19,4 +19,11 @@ Expressions_Assignment
 
 alert("Hello Click \"ok\" to continue Stress Level Calculator");//alert command tell user about the project
 var textString = ["0On a scale from 1-10, \n How much stress do you have","1On a scale from 1-10, \n How RELAX are you right now at work?","2How many REPORTS do you have to complete?","3Do you feel that violence is the ONLY solution?"]
-var outPutString = ["0Your STRESS level is ",'1Your RELAX level is ',"2The number of reports until complete is ","3You feel that violence is the ONly solutoin in the work place"]
+var outPutString = ["0Your STRESS level is ",'1Your RELAX level is ',"2The number of reports until complete is ","3You feel that violence is the ONly solution in the work place"]
+
+var stress = prompt(textString[0]);
+var relax = prompt(textString[1]);
+var report = prompt(textString[2]);
+var violence = prompt(textString[3]);
+var total = violence*(stress*report)-(stress-relax),
+
